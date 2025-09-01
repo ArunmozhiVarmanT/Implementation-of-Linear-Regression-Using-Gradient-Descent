@@ -61,12 +61,16 @@ print(f"Predicted value: {pre}")
 ## Output:
 
 ## data information
+<img width="558" height="222" alt="a1" src="https://github.com/user-attachments/assets/79ebe5fc-239f-4a1b-a5d8-7f2c06810c9c" />
 
 ## Value of x
+<img width="225" height="713" alt="a2" src="https://github.com/user-attachments/assets/bce56909-57dc-4cec-8c4a-7da702cb5ee2" />
 
 ## Value of X1_scaled
+<img width="343" height="707" alt="a3" src="https://github.com/user-attachments/assets/a254102e-d6c6-4fce-94b2-e05de1371bf4" />
 
 ## predicted value
+<img width="247" height="46" alt="a4" src="https://github.com/user-attachments/assets/e714ebec-b546-48f2-8b16-c5a8caa91915" />
 
 
 
